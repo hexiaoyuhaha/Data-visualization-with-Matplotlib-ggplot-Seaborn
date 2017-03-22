@@ -1,1 +1,1 @@
-ggplot.inpy is the main tutorial file
+ggplot.ipynb is the main tutorial file
